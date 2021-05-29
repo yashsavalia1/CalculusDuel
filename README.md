@@ -1,14 +1,11 @@
-## Getting Started
+# Calculus Duel
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This game tests your Calculus knowledge in fun duels while playing as historic mathematicians. It was my final project for my Calculus class.
 
-## Folder Structure
+## How it was Made
 
-The workspace contains two folders by default, where:
+The game was made entirely using the Java Swing API while the quesitons were generated using the Maven library [jlatexmath](https://search.maven.org/artifact/org.scilab.forge/jlatexmath/1.0.7/jar).
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+To download the game visit the game page [here](https://yashsavalia1.github.io/Website/other-projects/calculus-duel/).
 
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+Note that the game may get flagged as a virus (Sorry there is not much I can do on this front).
